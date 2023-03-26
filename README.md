@@ -1,5 +1,11 @@
 # ConfigClient2
-# ConfigServer is dependent
+
+Dependent project link
+
+1. https://github.com/VengadeshArjunan/ConfigServer
+2. https://github.com/VengadeshArjunan/ConfigClient
+3. https://github.com/VengadeshArjunan/ConfigClient2
+
 http://localhost:8888/application/default
 	{"name":"application","profiles":["default"],"label":null,"version":null,"state":null,"propertySources":[{"name":"file:/E:/config/application.properties","source":{"greeting":"Hello World from Config Server Updated","spring.datasource.url":"jdbc:mysql://localhost:3306/demodb","spring.datasource.username":"root","spring.datasource.password":"welcome","spring.jpa.hibernate.ddl-auto":"create-drop","spring.jpa.show-sql":"true","spring.jpa.properties.hibernate.dialect":"org.hibernate.dialect.MySQL8Dialect","spring.jpa.properties.hibernate.dialect.storage_engine":"innodb"}}]}
 	
